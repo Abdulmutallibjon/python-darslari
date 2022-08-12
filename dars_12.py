@@ -199,25 +199,25 @@ for azo, kinosi in oila_azolari.items():
 # 4
 
 davlatlar = {
-    "O`zbekiston":{
+    "O`zbekiston": {
         'Poytaxti': 'Toshkent',
         'Hududi': '448978 kv.km',
         'Aholisi': '38000000',
         'Pul birligi': "so`m"
     },
-    "Rossiya":{
+    "Rossiya": {
         'Poytaxti': 'Moskva',
         'Hududi': '17098246 kv.km',
         'Aholisi': '144000000',
         'Pul birligi': 'rubl'
     },
-    'AQSH':{
+    'AQSH': {
         'Poytaxti': 'Vashington',
         'Hududi': '9631418 kv.km',
         'Aholisi': '327000000',
         'Pul birligi': "dollar"
     },
-    'Malayziya':{
+    'Malayziya': {
         'Poytaxti': 'Kuala-Lumpur',
         'Hududi': '329750 kv.km',
         'Aholisi': '25000000',
